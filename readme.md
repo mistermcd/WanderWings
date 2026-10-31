@@ -24,11 +24,16 @@ In vanilla *Cities: Skylines*, no matter where hot air balloons (Parklife DLC) o
 ## 🔧 Technical Details
 
 * **Target AIs:** `BalloonAI`, `PrivatePlaneAI`
+* A new random loiter area is chosen for the balloon or private plane
+* Loiter points are within the middle 25 tiles (5x5) and only if the tile is purchased
+* Vehicle's "return home" timer overrides WanderWing behavior
 
 ---
 
 This is my next mod to address another one of my long-time pet peeves with the game.
 
 I did use Gemini AI to write the code, but the idea and testing were all mine. 
+
+The code is on [GitHub](https://github.com/mistermcd/WanderWings).
 
 - McD
