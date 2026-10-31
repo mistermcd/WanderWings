@@ -23,7 +23,7 @@ In vanilla *Cities: Skylines*, no matter where hot air balloons (Parklife DLC) o
 
 ## 🔧 Technical Details
 
-* **Target AIs:** `BalloonAI`, `PassengerPlaneAI`
+* **Target AIs:** `BalloonAI`, `PrivatePlaneAI`
 
 ---
 
